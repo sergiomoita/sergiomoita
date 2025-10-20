@@ -1,6 +1,6 @@
 <!-- Título animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Olá%2C+eu+sou+o+Sérgio+Ribeiro!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Seja Bem-Vindo!" alt="Typing SVG" />
 </h1>
 
 ---
