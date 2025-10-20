@@ -29,8 +29,17 @@
 <div align="center">
   <a href="https://github.com/sergiomoita">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomoita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoita&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoita&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
+
+### 🎯 Fun Facts
+- 🏀 Adoro esportes e pratico **basquete** e **vôlei**  
+- 🎸 Gosto de **tocar violão** e **cantar** nas horas livres  
+- 🌱 Busco sempre **novas oportunidades de evoluir** como pessoa e profissional  
+- ✝️ **Católico**, participante da *Comunidade Católica Face de Cristo*, onde encontro propósito e inspiração  
+- 💬 Acredito que tecnologia e fé caminham lado a lado quando o objetivo é transformar vidas
 
 ---
 
