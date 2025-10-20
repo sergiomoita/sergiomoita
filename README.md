@@ -28,7 +28,7 @@
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/sergiomoita">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomoita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomoita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomoita&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -44,10 +44,10 @@
 ---
 
 ### 🌐 Onde me encontrar
-📧 **Email:** [sergio@exemplo.com](mailto:sergiomoita12@gmail.com)  
+📧 **Email:** [sergiomoita12@gmail.com](mailto:sergiomoita12@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/sergiomoita](https://linkedin.com/in/sergiomoita_)  
 🖥️ **Portfólio:** [sergiomoita.github.io](https://sergiomoita.github.io)  
-📸 **Instagram:** [instagram.com/sergiomoita](https://instagram.com/sergiomoita_)
+📸 **Instagram:** [instagram.com/sergiomoita_](https://instagram.com/sergiomoita_)
 
 ---
 
