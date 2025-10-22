@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 Olá, eu sou o Sérgio Ribeiro!
+## 👋 Olá, eu sou o Sérgio Moita!
 
 🎓 **Graduando em Ciências da Computação** apaixonado por desenvolvimento e tecnologia.  
 💡 **Desenvolvedor em formação**, aficcionado pela linguagem **Java** e em constante busca por aprendizado.  
