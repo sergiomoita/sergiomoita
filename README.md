@@ -46,7 +46,7 @@
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergiomoita&theme=tokyonight"
-  width="700"
+  width="450"
 />
 
 </div>
