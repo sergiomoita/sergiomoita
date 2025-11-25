@@ -45,9 +45,8 @@
 <br/><br/>
 
 <img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergiomoita&theme=tokyonight" 
-  alt="Most Used Languages"
-  style="max-width: 250px; width: 100%; border-radius: 12px;"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergiomoita&theme=tokyonight"
+  width="350"
 />
 
 </div>
