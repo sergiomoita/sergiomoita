@@ -33,13 +33,25 @@
 ---
 
 ### 📊 Estatísticas do GitHub
+
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sergiomoita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergiomoita&theme=tokyonight" 
+  alt="GitHub Stats"
+  style="max-width: 700px; width: 100%; border-radius: 12px;"
+/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergiomoita&layout=compact&langs_count=7&theme=tokyonight"/>
+<br/><br/>
+
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergiomoita&theme=tokyonight" 
+  alt="Most Used Languages"
+  style="max-width: 500px; width: 100%; border-radius: 12px;"
+/>
 
 </div>
+
 
 
 ---
