@@ -41,6 +41,19 @@
 
 ---
 
+### ⏱️ Tempo Programando (WakaTime)
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/b8b9b8e8-1bd9-48ef-b3c8-8e8add84238f.svg)](https://wakatime.com/@b8b9b8e8-1bd9-48ef-b3c8-8e8add84238f)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 ### 🎯 Fun Facts
 - 🏀 Adoro esportes e pratico **basquete** e **vôlei**  
 - 🎸 Gosto de **tocar violão** e **cantar** nas horas livres  
