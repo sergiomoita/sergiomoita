@@ -79,8 +79,11 @@
 
 ### 🌐 Onde me encontrar
 📧 **Email:** [sergiomoita12@gmail.com](mailto:sergiomoita12@gmail.com)  
+
 💼 **LinkedIn:** [linkedin.com/in/sergiomoita](https://www.linkedin.com/in/s%C3%A9rgio-moita-9b8856383/)
+
 🖥️ **Portfólio:** [sergiomoita.github.io](https://sergiomoita.github.io)  
+
 📸 **Instagram:** [instagram.com/sergiomoita_](https://instagram.com/sergiomoita_)
 
 ---
